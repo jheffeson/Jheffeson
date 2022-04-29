@@ -1,6 +1,6 @@
 ### Olá! Eu sou Jheffeson Pereira   👋
 
-- 🔭 EStou a procura de um oportunidade no mercado de desenvolvimento e tecnologia 
+- 🔭 Estou a procura de um oportunidade no mercado de desenvolvimento e tecnologia 
 - 🌱 Estudante de Desenvolvimento de sistemas
 - 💬 Contate-me e-mail: jheffeson.leal@gmail.com
 
