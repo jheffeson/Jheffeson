@@ -1,4 +1,7 @@
 ## Olá! Eu sou Jheffeson Pereira Leal
+- 🔭 Estou a procura de um oportunidade no mercado de desenvolvimento e tecnologia 
+- 🌱 Estudante de Desenvolvimento de sistemas
+- 💬 Contate-me e-mail: jheffeson.leal@gmail.com
 <div align="center">
   <a href="https://github.com/jheffeson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheffeson&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
