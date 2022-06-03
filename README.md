@@ -3,7 +3,7 @@
 - 🌱 Estudante de Desenvolvimento de sistemas
 - 💬 Contate-me e-mail: jheffeson.leal@gmail.com
 
-<div align="center"style="display: inline_block">
+<div style="display: inline_block">
   <a href="https://github.com/jheffeson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheffeson&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheffeson&layout=compact&langs_count=7&theme=dracula"/>
