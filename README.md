@@ -3,13 +3,12 @@
 - 🌱 Estudante de Desenvolvimento de sistemas
 - 💬 Contate-me e-mail: jheffeson.leal@gmail.com
 
-<div align="center">
+<div align="center"style="display: inline_block">
   <a href="https://github.com/jheffeson">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jheffeson&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jheffeson&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
-
   
 <div style="display: inline_block"><br>
   <img align="center" alt="jheffeson-Js" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
