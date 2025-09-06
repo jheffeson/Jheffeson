@@ -31,10 +31,6 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jheffeson&layout=compact&theme=dracula)
 
-## 🌟 Projetos em Destaque
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jheffeson&repo=seu-repositorio&theme=radical)](https://github.com/jheffeson/seu-repositorio)
-
 ## 📫 Conecte-se comigo
 
 <div> 
